@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SpongeBob">
+    <file alias="qmldir">C:/Users/Ярослав/Documents/SpongeBob/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SpongeBob/qmldir</file>
+  </qresource>
+</RCC>
+

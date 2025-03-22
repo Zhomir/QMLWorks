@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Ярослав/Documents/SpongeBob
+-cmake-output
+-output-file
+C:/Users/Ярослав/Documents/SpongeBob/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSpongeBob.cmake
+-importPath
+C:/Users/Ярослав/Documents/SpongeBob/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SpongeBob
+-importPath
+C:/Users/Ярослав/Documents/SpongeBob/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/Ярослав/Documents/SpongeBob/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_SpongeBob.qrc
+C:/Users/Ярослав/Documents/SpongeBob/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appSpongeBob_raw_qml_0.qrc

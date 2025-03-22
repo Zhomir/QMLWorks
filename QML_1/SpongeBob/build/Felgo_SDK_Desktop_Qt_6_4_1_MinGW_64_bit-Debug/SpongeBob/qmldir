@@ -1,0 +1,5 @@
+module SpongeBob
+typeinfo appSpongeBob.qmltypes
+prefer :/SpongeBob/
+Main 1.0 Main.qml
+
