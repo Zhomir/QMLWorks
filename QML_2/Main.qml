@@ -13,7 +13,6 @@ ApplicationWindow {
         anchors.fill: parent
         spacing: 0
 
-        // Header
         Rectangle {
             Layout.alignment: Qt.AlignTop
             Layout.fillWidth: true
@@ -27,7 +26,6 @@ ApplicationWindow {
             }
         }
 
-        // Content
         Rectangle {
             Layout.fillWidth: true
             Layout.fillHeight: true
@@ -45,7 +43,6 @@ ApplicationWindow {
             }
         }
 
-        // Footer
         Rectangle {
             Layout.fillWidth: true
             color: "black"
