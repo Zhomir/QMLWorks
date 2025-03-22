@@ -1,0 +1,5 @@
+module QMLayouts
+typeinfo appQMLayouts.qmltypes
+prefer :/QMLayouts/
+Main 1.0 Main.qml
+

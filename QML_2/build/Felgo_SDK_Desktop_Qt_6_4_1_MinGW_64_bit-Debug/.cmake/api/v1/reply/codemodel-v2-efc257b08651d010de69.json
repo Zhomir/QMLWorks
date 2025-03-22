@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-39ec13716bf798873949.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QMLayouts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9a8d4761e42168cc2bbb.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-0db9784e57ac4e0db988.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-49e168913a521d2f2a8e.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts-Debug-d0753bbc742f3c4d50d8.json",
+					"name" : "appQMLayouts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_autogen-Debug-677e1c4dd1a6ca5a9dcd.json",
+					"name" : "appQMLayouts_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_autogen_timestamp_deps-Debug-5284b36b8b8c9cfdb065.json",
+					"name" : "appQMLayouts_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_other_files-Debug-6e6a7c8456c85baf2c06.json",
+					"name" : "appQMLayouts_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_qmlimportscan-Debug-ebeb8e145ba4289d9ea5.json",
+					"name" : "appQMLayouts_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_qmllint-Debug-7493621f88f9f5d0eaef.json",
+					"name" : "appQMLayouts_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_qmllint_json-Debug-dfd04ecffa7344ff2fa6.json",
+					"name" : "appQMLayouts_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_qmltyperegistration-Debug-673429a13a66a9a7c22f.json",
+					"name" : "appQMLayouts_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLayouts_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLayouts_tooling-Debug-6857d4f18a616fc6c90d.json",
+					"name" : "appQMLayouts_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLayouts/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLayouts"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
