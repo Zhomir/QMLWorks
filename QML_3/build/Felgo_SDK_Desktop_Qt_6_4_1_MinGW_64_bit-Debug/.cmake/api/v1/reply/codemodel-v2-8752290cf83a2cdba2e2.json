@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b605a0ecaaa0ec7c18d5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QML_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7158f269b9697bc8a070.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-15b5dfa577ffa14009c7.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-810de9757e092377b9ea.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3-Debug-808715f2a75f6d2b16c4.json",
+					"name" : "appQML_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_autogen-Debug-b89659dd6d61b1348834.json",
+					"name" : "appQML_3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_autogen_timestamp_deps-Debug-53b3d1ec3b10a0b78b5d.json",
+					"name" : "appQML_3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_other_files-Debug-bbeddc0e5bed62d5b769.json",
+					"name" : "appQML_3_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_qmlimportscan-Debug-109993d928acb5468b9a.json",
+					"name" : "appQML_3_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_qmllint-Debug-5531186d285f16877edb.json",
+					"name" : "appQML_3_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_qmllint_json-Debug-42ee1ca14c8659b25c18.json",
+					"name" : "appQML_3_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_qmltyperegistration-Debug-eceacb0a840a48e5e7b8.json",
+					"name" : "appQML_3_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_3_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_3_tooling-Debug-769f5ccb9fa9f08ecf12.json",
+					"name" : "appQML_3_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLWorks/QMLWorks/QML_3/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLWorks/QMLWorks/QML_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

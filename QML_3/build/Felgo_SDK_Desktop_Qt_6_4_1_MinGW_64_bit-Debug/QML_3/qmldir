@@ -1,0 +1,5 @@
+module QML_3
+typeinfo appQML_3.qmltypes
+prefer :/QML_3/
+Main 1.0 Main.qml
+
