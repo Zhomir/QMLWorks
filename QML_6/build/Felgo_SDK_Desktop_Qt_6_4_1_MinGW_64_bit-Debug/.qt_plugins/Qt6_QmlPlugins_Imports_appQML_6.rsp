@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Ярослав/Documents/QMLWorks/QMLWorks/QML_6
+-cmake-output
+-output-file
+C:/Users/Ярослав/Documents/QMLWorks/QMLWorks/QML_6/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQML_6.cmake
+-importPath
+C:/Users/Ярослав/Documents/QMLWorks/QMLWorks/QML_6/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QML_6
+-importPath
+C:/Users/Ярослав/Documents/QMLWorks/QMLWorks/QML_6/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/Ярослав/Documents/QMLWorks/QMLWorks/QML_6/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_QML_6.qrc
+C:/Users/Ярослав/Documents/QMLWorks/QMLWorks/QML_6/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appQML_6_raw_qml_0.qrc
