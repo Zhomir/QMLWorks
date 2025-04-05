@@ -41,12 +41,11 @@ Window {
         }
     }
 
-
     Component {
         id: redPage
         Page {
             title: "Красный"
-            background: Rectangle { color: "#e74c3c" }
+            background: Rectangle { color: "red" }
 
             ColumnLayout {
                 anchors.centerIn: parent
@@ -68,14 +67,10 @@ Window {
         id: greenPage
         Page {
             title: "Зеленый"
-            background: Rectangle { color: "#2ecc71" }
+            background: Rectangle { color: "green" }
 
-            RowLayout {
-                anchors {
-                    bottom: parent.bottom
-                    horizontalCenter: parent.horizontalCenter
-                    margins: 20
-                }
+            ColumnLayout {
+                anchors.centerIn: parent
                 spacing: 15
 
                 Button {
@@ -94,26 +89,19 @@ Window {
         id: yellowPage
         Page {
             title: "Желтый"
-            background: Rectangle { color: "#f1c40f" }
+            background: Rectangle { color: "yellow" }
 
             ColumnLayout {
-                anchors {
-                    top: parent.top
-                    right: parent.right
-                    margins: 15
-                }
-                spacing: 10
+                anchors.centerIn: parent
+                spacing: 15
 
                 Button {
-                    text: "🔴"
+                    text: "Красный"
                     onClicked: stackView.replace(redPage)
-                    background: Rectangle { opacity: 0 }
                 }
-
                 Button {
-                    text: "🟢"
+                    text: "Зеленый"
                     onClicked: stackView.replace(greenPage)
-                    background: Rectangle { opacity: 0 }
                 }
             }
         }
@@ -127,11 +115,12 @@ Window {
             ToolButton {
                 visible: stackView.depth > 1
                 text: "Назад"
-                font.pixelSize: 20
                 onClicked: stackView.pop()
             }
-
         }
     }
 }
+
+
+
 
