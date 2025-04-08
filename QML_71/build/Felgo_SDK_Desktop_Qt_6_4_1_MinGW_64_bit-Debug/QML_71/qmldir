@@ -1,0 +1,5 @@
+module QML_71
+typeinfo appQML_71.qmltypes
+prefer :/QML_71/
+Main 1.0 Main.qml
+

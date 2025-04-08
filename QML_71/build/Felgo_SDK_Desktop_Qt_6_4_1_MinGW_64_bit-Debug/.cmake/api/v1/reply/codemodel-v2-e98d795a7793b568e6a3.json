@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ebb087aa5b778d6423b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QML_71",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bb76e186a6f5aa522e32.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-06e85cd74d17dcafeb2e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d89fcc45baa4d3afb69a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71-Debug-f2f3817ec14427a1ced2.json",
+					"name" : "appQML_71",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_autogen-Debug-798c6b7facd6d796ee5f.json",
+					"name" : "appQML_71_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_autogen_timestamp_deps-Debug-911f2c855ff801e9412c.json",
+					"name" : "appQML_71_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_other_files-Debug-1a6573260eb033cce6cb.json",
+					"name" : "appQML_71_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_qmlimportscan-Debug-7e5229029f9a72c8931c.json",
+					"name" : "appQML_71_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_qmllint-Debug-696f0c2091c03ea2f778.json",
+					"name" : "appQML_71_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_qmllint_json-Debug-e43154d333cb6f1539bb.json",
+					"name" : "appQML_71_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_qmltyperegistration-Debug-d6484c80fb3f539c69c7.json",
+					"name" : "appQML_71_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML_71_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML_71_tooling-Debug-7209af6bb29fe2e4c389.json",
+					"name" : "appQML_71_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLWorks/QMLWorks/QML_71/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLWorks/QMLWorks/QML_71"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
