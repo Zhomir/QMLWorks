@@ -1,0 +1,5 @@
+module QML_8
+typeinfo appQML_8.qmltypes
+prefer :/QML_8/
+Main 1.0 Main.qml
+
