@@ -1,0 +1,5 @@
+module QMLNews
+typeinfo appQMLNews.qmltypes
+prefer :/QMLNews/
+Main 1.0 Main.qml
+

@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b5c7f56ea6c313a89d12.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QMLPage",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7deb8ff702148d84ff84.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1a2f1c2f8b4c26bb54cb.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-dc290a4bf5701036afcd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage-Debug-325abefe42e6c0c563b3.json",
+					"name" : "appQMLPage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_autogen-Debug-27ab38218253a51b2ad1.json",
+					"name" : "appQMLPage_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_autogen_timestamp_deps-Debug-7885c03900401ea05c59.json",
+					"name" : "appQMLPage_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_other_files-Debug-764021f4bceaaeda5e5f.json",
+					"name" : "appQMLPage_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_qmlimportscan-Debug-2ef98b2f82e80ad2bfe5.json",
+					"name" : "appQMLPage_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_qmllint-Debug-958222034169726c78db.json",
+					"name" : "appQMLPage_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_qmllint_json-Debug-7314810293f4327ce370.json",
+					"name" : "appQMLPage_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_qmltyperegistration-Debug-eb85befc950169fb94cb.json",
+					"name" : "appQMLPage_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQMLPage_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQMLPage_tooling-Debug-d941a4ad5e014506bb0a.json",
+					"name" : "appQMLPage_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLWorks/QMLWorks/QMLPage/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/\u042f\u0440\u043e\u0441\u043b\u0430\u0432/Documents/QMLWorks/QMLWorks/QMLPage"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
